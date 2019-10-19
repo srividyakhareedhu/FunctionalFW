@@ -18,5 +18,10 @@ public class Test1 extends library{
 		assertall();
 	}
 	
+	public void myTest_Git()
+	{
+		
+	}
+	
 
 }
