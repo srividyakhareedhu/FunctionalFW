@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-17T12:23:56Z" name="Suite" finished-at="2019-10-17T12:24:07Z" duration-ms="10980">
+    <groups>
+    </groups>
+    <test started-at="2019-10-17T12:23:56Z" name="Test" finished-at="2019-10-17T12:24:07Z" duration-ms="10980">
+      <class name="com.testCases.Test6">
+        <test-method signature="createProjectTest()[pri:0, instance:com.testCases.Test6@f79e]" started-at="2019-10-17T12:24:04Z" name="createProjectTest" finished-at="2019-10-17T12:24:07Z" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectTest -->
+      </class> <!-- com.testCases.Test6 -->
+      <class name="com.testCases.Test5">
+        <test-method signature="createProjectTest()[pri:0, instance:com.testCases.Test5@4c39bec8]" started-at="2019-10-17T12:24:00Z" name="createProjectTest" finished-at="2019-10-17T12:24:04Z" duration-ms="3612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectTest -->
+      </class> <!-- com.testCases.Test5 -->
+      <class name="com.testCases.Test4">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.testCases.Test4@8c3b9d]" started-at="2019-10-17T12:23:51Z" name="OpenBrowser" finished-at="2019-10-17T12:23:56Z" duration-ms="5118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="createProjectTest()[pri:0, instance:com.testCases.Test4@8c3b9d]" started-at="2019-10-17T12:23:56Z" name="createProjectTest" finished-at="2019-10-17T12:24:00Z" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.testCases.Test4@8c3b9d]" started-at="2019-10-17T12:24:07Z" name="CloseBrowser" finished-at="2019-10-17T12:24:08Z" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.testCases.Test4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
